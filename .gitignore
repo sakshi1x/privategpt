@@ -1,0 +1,4 @@
+.venv
+tiktoken_cache
+local_data
+__pycache__
